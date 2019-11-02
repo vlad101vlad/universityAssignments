@@ -1,0 +1,87 @@
+/// input: n = 4
+
+The abelian group structures on G with identity element [a1] are given by the matrices : 
+a1 a2 a3 a4 
+a2 a1 a4 a3 
+a3 a4 a1 a2 
+a4 a3 a2 a1 
+
+a1 a2 a3 a4 
+a2 a1 a4 a3 
+a3 a4 a2 a1 
+a4 a3 a1 a2 
+
+a1 a2 a3 a4 
+a2 a3 a4 a1 
+a3 a4 a1 a2 
+a4 a1 a2 a3 
+
+a1 a2 a3 a4 
+a2 a4 a1 a3 
+a3 a1 a4 a2 
+a4 a3 a2 a1 
+
+The abelian group structures on G with identity element [a2] are given by the matrices : 
+a2 a1 a4 a3 
+a1 a2 a3 a4 
+a4 a3 a1 a2 
+a3 a4 a2 a1 
+
+a2 a1 a4 a3 
+a1 a2 a3 a4 
+a4 a3 a2 a1 
+a3 a4 a1 a2 
+
+a3 a1 a4 a2 
+a1 a2 a3 a4 
+a4 a3 a2 a1 
+a2 a4 a1 a3 
+
+a4 a1 a2 a3 
+a1 a2 a3 a4 
+a2 a3 a4 a1 
+a3 a4 a1 a2 
+
+The abelian group structures on G with identity element [a3] are given by the matrices : 
+a2 a4 a1 a3 
+a4 a3 a2 a1 
+a1 a2 a3 a4 
+a3 a1 a4 a2 
+
+a3 a4 a1 a2 
+a4 a1 a2 a3 
+a1 a2 a3 a4 
+a2 a3 a4 a1 
+
+a3 a4 a1 a2 
+a4 a3 a2 a1 
+a1 a2 a3 a4 
+a2 a1 a4 a3 
+
+a4 a3 a1 a2 
+a3 a4 a2 a1 
+a1 a2 a3 a4 
+a2 a1 a4 a3 
+
+The abelian group structures on G with identity element [a4] are given by the matrices : 
+a2 a3 a4 a1 
+a3 a4 a1 a2 
+a4 a1 a2 a3 
+a1 a2 a3 a4 
+
+a3 a4 a2 a1 
+a4 a3 a1 a2 
+a2 a1 a4 a3 
+a1 a2 a3 a4 
+
+a4 a3 a2 a1 
+a3 a1 a4 a2 
+a2 a4 a1 a3 
+a1 a2 a3 a4 
+
+a4 a3 a2 a1 
+a3 a4 a1 a2 
+a2 a1 a4 a3 
+a1 a2 a3 a4 
+
+The number of abelian group structures on a set G = {a1, a2, a3, a4} is: 16
